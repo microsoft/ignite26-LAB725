@@ -35,7 +35,7 @@ Fill in the sections below yourself, then:
 ## 🔥LAB725: Hands-on: Network monitoring and troubleshooting
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Join to gain practical experience with Azure network monitoring, troubleshooting, traffic analytics, and security insights. Through real-world scenarios such as ExpressRoute monitoring and Private Link traffic visibility, you'll learn which tools to use, when to use them, and how to interpret data effectively. By the end, you'll be equipped to improve network resilience, strengthen security, accelerate issue resolution, reduce operational overhead, and enhance application performance.
 
 ### 🚀 Getting started
 
