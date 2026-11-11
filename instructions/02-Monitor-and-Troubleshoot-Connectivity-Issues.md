@@ -29,8 +29,8 @@ In this module, you'll troubleshoot two outages and find the root cause of each:
 | **Tools** | Connection Monitor, Azure Firewall metrics |
 | **Time** | 5-10 minutes |
 
-1. Open a new browser tab and go to `http://checkout-<lab-instance-id>.swedencentral.cloudapp.azure.com`.
-
+1. Open a new browser tab and go to the checkout website mentioned on your lab instruction.
+ ![Checkout website payment service is unreachable ](./media/02a-checkout-unreachable.png)
 > [!WARNING]
 > The site doesn't load. This is the problem you'll fix.
 
@@ -95,7 +95,8 @@ In this module, you'll troubleshoot two outages and find the root cause of each:
 | **Tool** | Connection Troubleshoot |
 | **Time** | 5 minutes |
 
-1. Open a new browser tab and go to `http://branch-<lab-instance-id>.swedencentral.cloudapp.azure.com`.
+1. Open a new browser tab and go to branch website mentioned on your lab instruction.<br>
+   ![Branch website head office system is unreachable ](./media/02b-branch-unreachable.png)
 
 > [!WARNING]
 > The site doesn't load. This is the problem you'll fix.
