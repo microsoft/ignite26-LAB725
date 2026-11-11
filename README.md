@@ -50,23 +50,38 @@ Pick your next step based on your learning style:
 |----------|-----------------|
 | **[Ignite 2026 Next Steps](https://aka.ms/ignite26-next-steps)** | Additional session repos and materials from Microsoft Ignite 2026 |
 | **[Microsoft AI Skills Navigator](https://aka.ms/ignite26-asn)** | Discover AI skills, learning paths, and resources for your next step |
-| **[Microsoft Learn]([https://aka.ms/ignite26-learn](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview))** | Official documentation and guided learning paths on Network Watcher products |
+| **[Microsoft Learn](https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview)** | Official documentation and guided learning paths on Network Watcher products |
 | **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-Ignite26)** | Connect with other learners and experts in our Discord community |
 
 
 ### 👥 Content owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
 <table>
 <tr>
     <td align="center"><a href="http://github.com/rathinaman">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="Naman Rathi"/><br />
+        <img src="https://github.com/rathinaman.png" width="100px;" alt="Naman Rathi"/><br />
         <sub><b>Naman Rathi</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+            <a href="https://github.com/rathinaman" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="http://github.com/huzefafw">
+        <img src="https://github.com/huzefafw.png" width="100px;" alt="Huzefa Furniturewala"/><br />
+        <sub><b>Huzefa Furniturewala</b></sub></a><br />
+            <a href="https://github.com/huzefafw" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="http://github.com/saileshnadendla ">
+        <img src="https://github.com/saileshnadendla.png" width="100px;" alt="Sailesh Nadendla"/><br />
+        <sub><b>Sailesh Nadendla</b></sub></a><br />
+            <a href="https://github.com/saileshnadendla" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="http://github.com/srisakthimaheswari">
+        <img src="https://github.com/srisakthimaheswari.png" width="100px;" alt="Sri Sakhti"/><br />
+        <sub><b>Sri Sakhti</b></sub></a><br />
+            <a href="https://github.com/srisakthimaheswari" title="talk">📢</a>
+    </td>
+    <td align="center"><a href="http://github.com/shivamtripathi">
+        <img src="https://github.com/shivamtripathi.png" width="100px;" alt="Shivam Tripathi"/><br />
+        <sub><b>Shivam Tripathi</b></sub></a><br />
+            <a href="https://github.com/shivamtripathi" title="talk">📢</a>
     </td>
 </tr></table>
 
