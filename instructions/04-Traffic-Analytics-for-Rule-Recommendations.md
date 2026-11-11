@@ -39,9 +39,6 @@
 
 4. When the **Data availability check** passes, select **Generate Recommendations**.
 
-> [!TIP]
-> **Troubleshooting:** If the check doesn't pass, confirm the NSG or subnet with the speaker or proctor.
-
 5. Review the results. Recommended rules are grouped by the NSG that the selected subnets will use.
 
    ![Recommended rules](./media/04-recommendations.png)
@@ -52,14 +49,12 @@
 
 7. Select **Create NSG** to confirm.
 
-   ✅ **Check:** A notification confirms the NSG was created. Copy its name from the notification.
+   ✅ **Check:** A notification confirms the NSG was created.
 
 > [!NOTE]
 > Creation can take a few minutes. When it's done, you'll see **Created**.
 
 8. Select **✅ Created**. It shows all the NSG rules you created recently.
-
-   ![Created NSG rules](./media/04-created.png)
 
 > [!NOTE]
 > **Key concept:** The recommendation doesn't allow **all** Azure services. It allows only the specific Azure services your traffic actually uses, which follows the principle of least privilege.
@@ -75,16 +70,6 @@
 ---
 
 ## 🎉 You're done!
-
-| Module | Tool | What you learned |
-|---|---|---|
-| [01](./01-Network-Visualization-and-Enable-Monitoring.md) | Topology, Connection Monitor | See your network and resource health; turn on monitoring in one click |
-| [02 - Part A](./02-Monitor-and-Troubleshoot-Connectivity-Issues.md#part-a-the-checkout-website-is-down-snat-port-exhaustion) | Connection Monitor, Azure Firewall metrics | Find SNAT port exhaustion and understand the fix |
-| [02 - Part B](./02-Monitor-and-Troubleshoot-Connectivity-Issues.md#part-b-the-branch-website-is-down-blocking-route) | Connection Troubleshoot | Find and fix a route that blocks traffic |
-| [03](./03-Intro-to-Flow-Logs-and-PLS-Support.md) | VNet flow logs, Traffic Analytics | Find who's overloading a PLS and which connection was dropped |
-| [04](./04-Traffic-Analytics-for-Rule-Recommendations.md) | Security Rule Recommendation | Generate least-privilege NSG rules from real traffic |
-
-**Learn more:** [Azure Network Watcher documentation](https://learn.microsoft.com/en-us/azure/network-watcher/)
 
 ---
 
