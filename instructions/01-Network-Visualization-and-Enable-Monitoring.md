@@ -78,9 +78,6 @@
 > [!NOTE]
 > Deployment takes **2-3 minutes** to appear. When it's done, you can check the results on the Connection Monitor home page.
 
-> [!TIP]
-> **Troubleshooting:** If your deployment fails, check with the speaker or proctor. It may be an issue with the resource deployment. It won't affect the rest of the lab.
-
 ---
 
 ## What you learned
