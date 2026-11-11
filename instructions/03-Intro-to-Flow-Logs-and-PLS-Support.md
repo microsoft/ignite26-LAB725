@@ -62,8 +62,6 @@ So far, you've checked whether connections work. Next, you'll look at **who is s
 
 3. In the Azure portal search bar, search for **Azure Workbooks** and open **IgniteWB**. Select **Open Workbook**.
 
-   ![IgniteWB workbook](./media/03-workbook-open.png)
-
 > [!TIP]
 > **Troubleshooting:** If the workbook shows no data, set **Time range** to **Last 60 days**.
 
@@ -93,9 +91,7 @@ So far, you've checked whether connections work. Next, you'll look at **who is s
 
 7. Find the **source IP** with the largest share of traffic and note the **Private Link ID** next to it.
 
-8. Use the [topology image](#part-a-see-what-the-updated-flow-logs-capture-for-private-link-traffic) to find the VM or endpoint this traffic comes from.
-
-9. Look for any source you **didn't expect** to see talking to the PLS.
+8. Use the topology image to find the VM or endpoint this traffic comes from.
 
 > [!NOTE]
 > **Key concept:** Top Talkers takes you from "which VNet?" to "which endpoint?". An unexpected talker is a **security finding**, not just a traffic pattern: something is reaching your service that shouldn't be.
@@ -104,12 +100,12 @@ So far, you've checked whether connections work. Next, you'll look at **who is s
 
 ## Part E: Which connection never reached the backend?
 
-10. Select the **Dropped in Network** tab.
+9. Select the **Dropped in Network** tab.
 
     - The **At Source** table (left) lists connections the client VMs started toward the PLS.
     - The **At Destination** table (right) lists connections that reached the service backend.
 
-11. Review the bottom table. It shows all the packets dropped in the network: the difference between the **At Source** and **At Destination** tables.
+10. Review the bottom table. It shows all the packets dropped in the network: the difference between the **At Source** and **At Destination** tables.
 
     ✅ **Check:** You can see which connections left the client but never reached the backend.
 
@@ -121,7 +117,7 @@ So far, you've checked whether connections work. Next, you'll look at **who is s
 
 | Tool | What you did |
 |---|---|
-| VNet flow logs (Version 5) | Saw the real source VM IP and Private Link details behind PLS traffic |
+| VNet flow logs | Saw the real source VM IP and Private Link details behind PLS traffic |
 | Traffic Analytics, Azure Workbooks | Found the VNet sending the most traffic, the top-talking endpoint and connections dropped in the network |
 
 ---
