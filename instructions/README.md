@@ -56,7 +56,6 @@ Everyone who takes this lab, in the room or online, gets the same lab environmen
 1. Sign in to the lab virtual machine and the Azure portal the same way, using the credentials in your lab environment.
 2. Open [00-Introduction](./00-Introduction.md) and work through the modules in order.
 3. You won't have a speaker or proctor to help you, so each module includes extra support:
-   - 🎬 A **demo video** that walks through the full scenario, so you can compare what you see with the expected result
    - 🖼️ **Screenshots** of the key steps and expected results
    - ✅ **Checks** that describe what you should see at each step, with a troubleshooting tip where a step commonly goes wrong
 
