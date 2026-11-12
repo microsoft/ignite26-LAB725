@@ -38,9 +38,13 @@ By the end of this session, you will be able to:
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Azure Network Watcher
+- Connection monitor, with hop-by-hop topology and failure diagnosis
+- Virtual network flow logs and Traffic analytics
+- Azure Firewall, with SNAT port exhaustion
+- Azure Private Link private
+- Virtual network peering and user-defined routes
+- Azure Monitor Log Analytics and Azure Workbooks
 
 ### 📚 Continue your learning
 
