@@ -11,9 +11,6 @@ So far, you've checked whether connections work. Next, you'll look at **who is s
 > [!NOTE]
 > **Key concept:** **VNet flow logs** capture information about IP traffic flowing through a virtual network. To learn more, see the [VNet flow logs documentation](https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-overview).
 
-<!-- TODO: Replace the link below with the "How to create VNet flow logs" video URL -->
-🎬 **How to create VNet flow logs:** [Watch the video](VIDEO_LINK_03_CREATE_VNET_FLOW_LOGS)
-
 ---
 
 ## Scenario: Find what's overloading a Private Link Service
@@ -30,12 +27,6 @@ So far, you've checked whether connections work. Next, you'll look at **who is s
 
 ---
 
-## 🎬 Demo video
-
-<!-- TODO: Replace the link below with the demo video URL -->
-[Watch the Module 03 demo](VIDEO_LINK_03_FLOW_LOGS_PLS)
-
----
 
 ## Part A: See what the updated flow logs capture for Private Link traffic
 
