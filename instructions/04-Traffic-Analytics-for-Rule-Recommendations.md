@@ -13,12 +13,6 @@
 | **Tool** | Security Rule Recommendation (Traffic Analytics) |
 | **Time** | 5-10 minutes |
 
----
-
-## 🎬 Demo video
-
-<!-- TODO: Replace the link below with the demo video URL -->
-[Watch the Module 04 demo](VIDEO_LINK_04_RULE_RECOMMENDATIONS)
 
 ---
 
