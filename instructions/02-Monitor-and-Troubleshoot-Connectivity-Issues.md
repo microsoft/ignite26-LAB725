@@ -11,12 +11,6 @@ In this module, you'll troubleshoot two outages and find the root cause of each:
 - [Part A: The checkout website is down (SNAT port exhaustion)](#part-a-the-checkout-website-is-down-snat-port-exhaustion)
 - [Part B: The branch website is down (blocking route)](#part-b-the-branch-website-is-down-blocking-route)
 
----
-
-## 🎬 Demo video
-
-<!-- TODO: Replace the link below with the demo video URL -->
-[Watch the Module 02 demo](VIDEO_LINK_02_TROUBLESHOOT_CONNECTIVITY)
 
 ---
 
