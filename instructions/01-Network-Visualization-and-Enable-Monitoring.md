@@ -13,12 +13,6 @@
 | **Tools** | Topology, Connection Monitor |
 | **Time** | 5-10 minutes |
 
----
-
-## 🎬 Demo video
-
-<!-- TODO: Replace the link below with the demo video URL -->
-[Watch the Module 01 demo](VIDEO_LINK_01_NETWORK_VISUALIZATION)
 
 ---
 
