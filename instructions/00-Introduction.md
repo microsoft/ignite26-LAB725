@@ -32,9 +32,8 @@ You'll play the role of an engineer who has just inherited an Azure environment.
 ### If you're in the lab room
 
 1. Sign in to the lab virtual machine with the password shown in your lab environment.
-2. Open the Azure portal at [https://portal.azure.com](https://portal.azure.com/#home).
-3. Sign in with the username and Temporary Access Pass (TAP) shown in the **Resources** tab of your lab environment.
-
+2. Sign in with the username and Temporary Access Pass (TAP) shown in the **Resources** tab of your lab environment when the Sign In popup comes.
+3. Open the Azure portal at [https://portal.azure.com](https://portal.azure.com/#home).
 ---
 
 ## How each scenario works
