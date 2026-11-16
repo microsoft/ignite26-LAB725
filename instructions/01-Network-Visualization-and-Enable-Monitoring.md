@@ -22,7 +22,7 @@
 
    ![Network Watcher Topology](./media/01-topology-open.png)
 
-2. Find the **Denmark East** region and select **+** to expand it. You can also hover over **Denmark East** and select **Expand** on the hover card.
+2. Find the region mention in your instructions and select **+** to expand it. You can also hover over the region and select **Expand** on the hover card.
 
    ![Expand the Denmark East region](./media/01-topology-expand-region.png)
 
@@ -38,7 +38,7 @@
 > [!NOTE]
 > **Key concept:** Topology shows each resource's health and key metrics in one place, so you can spot unhealthy resources without opening each one.
 
-4. Close the right pane. Select the VNet **vnet-internet-client**.
+4. Close the right pane. Select the VNet **vnet-udr-hub** or **vnet-app-client**.
 
    ✅ **Check:** No **Connectivity** or **Traffic** insights appear. Nothing is monitoring this network's connections yet. You'll fix that in Part B.
 
